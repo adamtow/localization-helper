@@ -4,6 +4,10 @@
 	    "alert.comparing.title": "Comparing Localization Keys",
 	    "alert.localization.clipboard": "The localization file has been copied to the clipboard.",
 	    "alert.localization.clipboard.title": "Localization Copied",
+	    "alert.update.none": "You are currently running the latest version of Localization Helper.",
+	    "alert.update.none.title": "No Update Available",
+	    "error.offline": "You must be connected to the internet for this feature of GeoCuts to work.",
+	    "error.offline.title": "No Network Connection",
 	    "menu.back": "Back",
 	    "menu.default.clipboard": "Copy Default Localization to Clipboard",
 	    "menu.default.view": "View Default Localization…",
@@ -11,8 +15,8 @@
 	    "menu.localization.input.ask": "Input Directly…",
 	    "menu.localization.input.clipboard": "Input From Clipboard",
 	    "menu.localization.input.file": "Choose File…",
-	    "menu.localization.test": "Test Localization…",
-	    "menu.localization.view": "View Localization…",
+	    "menu.localization.test": "Validate Localization File…",
+	    "menu.localization.view": "View Localization File…",
 	    "menu.missing.clipboard": "Copy Missing Strings to Clipboard",
 	    "menu.missing.view": "View Missing Strings…",
 	    "menu.update": "Check for Updates…",
@@ -22,12 +26,12 @@
 	    "menu.valid.all.view": "View All Localizations File…",
 	    "menu.valid.clipboard": "Copy Localization File to Clipboard",
 	    "menu.valid.view": "View Localization File…",
-	    "prompt.app.choose": "Choose an app to localize.",
 	    "prompt.input.ask": "Enter your localization file.",
 	    "prompt.localization": "What would you like to do with the localization?",
 	    "prompt.localization.input": "How do you want to input your proposed localization?",
+	    "prompt.main": "Localization Helper\n\nChoose a shortcut that you wish to help localize.",
 	    "prompt.missing": "Missing Strings",
-	    "prompt.update": "An update for Localization Helper is available. Do you want to download the new version?",
-	    "prompt.valid": "Success  Localization Valid\n\n Installation Instructions:\n\n1. Copy and paste into the All Localizations text field in the shortcut (it's within the first 10 actions).\n\n2. Run the shortcut.\n\n3. Go to Settings > Change Language.\n\n4.Select the new language.\n\n5. Send me the localization file when you are satisfied with the results."
+	    "prompt.update": "Localization Helper {{version}} is available. Would you like to download it now?\n\nRelease Notes\n{{notes}}",
+	    "prompt.valid": "Localization Valid\n\n Installation Instructions:\n\n1. Copy and paste into the All Localizations text field in the shortcut (it's within the first 10 actions).\n\n2. Run the shortcut.\n\n3. Go to Settings > Change Language.\n\n4.Select the new language.\n\n5. Send me the localization file when you are satisfied with the results."
 	}
 }
